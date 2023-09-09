@@ -1199,4 +1199,7 @@
     <!-- Some Lineage repos -->
     <include name="snippets/los.xml" />
 
+    <!-- Some Rosemary repos -->
+    <include name="snippets/rosemary.xml" />
+
 </manifest>
