@@ -1200,6 +1200,6 @@
     <include name="snippets/los.xml" />
 
     <!-- Some Rosemary repos -->
-    <include name="snippets/rosemary.xml" />
+    <!--include name="snippets/rosemary.xml" />
 
 </manifest>
